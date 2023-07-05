@@ -3,4 +3,7 @@
 .*/
 .*_history
 .zcompdump*
-
+.*.*
+.lesshst
+.yarnrc
+.fehbg

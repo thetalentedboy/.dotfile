@@ -1,0 +1,1 @@
+ export DWM=~/dwm
