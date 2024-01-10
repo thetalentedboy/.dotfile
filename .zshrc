@@ -115,7 +115,7 @@ export OPENAI_API_KEY='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'
 alias chat='~/.config/chatgpt/chatgpt'
 
 alias dev='npm run dev'
-
+alias glog="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 alias code=code-insiders
 
 export NVM_DIR="$HOME/.nvm"
@@ -126,3 +126,4 @@ nvm use default >/dev/null 2>&1
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
